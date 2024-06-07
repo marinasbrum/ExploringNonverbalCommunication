@@ -17,3 +17,18 @@ Este estudo tem como objetivos:
 - Avaliar a frequência das interações de Jim com outros personagens em momentos específicos, como eventos ou feriados.
 - Investigar a relação entre as interações de Jim e a presença de pegadinhas na série, buscando compreender como esses elementos se entrelaçam em sua dinâmica característica.
 
+##  3. METODOLOGIA
+
+A metodologia empregada neste estudo envolveu uma abordagem de coleta e análise de dados cuidadosamente planejada. Os dados foram coletados por meio de observação direta dos episódios da série "The Office", com foco nas expressões faciais e nas reações emocionais transpassadas nas icônicas olhadas para a câmera do personagem Jim Halpert, reconhecidas como formas de comunicação não verbal. É importante observar que, devido à natureza dinâmica da série, algumas olhadas para a câmera podem ter passado despercebidas, e portanto, a análise se baseia na média das olhadas identificadas durante a observação direta.
+
+As olhadas icônicas de Jim Halpert para a câmera foram identificadas e classificadas durante a observação direta. Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados.
+
+Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico.
+
+Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados será realizada utilizando Python ou R, ainda a ser decidido, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
+
+Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabilidade dos resultados obtidos, proporcionando uma compreensão abrangente das expressões não verbais de Jim Halpert, incluindo suas icônicas olhadas para a câmera, em "The Office".
+
+##  4. RESULTADOS 
+
+##  5. CONCLUSÃO
