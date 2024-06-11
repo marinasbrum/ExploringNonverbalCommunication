@@ -3,6 +3,7 @@ Este estudo investiga os padrões de comunicação não verbal do personagem Jim
 <br>
 
 ## 1. INTRODUÇÃO
+
 Neste estudo, embarco em uma análise das expressões de Jim Halpert, um dos personagens mais emblemáticos da série de comédia "The Office". Ao longo das nove temporadas da série, Jim, interpretado por John Krasinski, tem sido tanto um protagonista cativante quanto uma fonte constante de humor, com suas expressões faciais muitas vezes roubando a cena.
 
 "The Office" transcende o típico cenário de um escritório para se tornar uma sátira afiada das dinâmicas e absurdos da vida corporativa. Em meio a esse ambiente único, as expressões de Jim assumem um papel crucial, não apenas como elementos de comunicação, mas também como ferramentas para criar momentos de humor genuíno.
@@ -13,6 +14,7 @@ Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada atravé
 <br>
 
 ##  2. OBJETIVOS
+
 Este estudo tem como objetivos:
 - Identificar padrões de comunicação não verbal de Jim Halpert em "The Office", incluindo seus principais interlocutores e contextos associados.
 - Analisar as reações emocionais de Jim em resposta a diferentes situações e personagens ao longo da série.
@@ -34,5 +36,6 @@ Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabi
 <br>
 
 ##  4. RESULTADOS 
+
 
 ##  5. CONCLUSÃO
