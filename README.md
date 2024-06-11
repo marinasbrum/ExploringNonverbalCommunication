@@ -18,8 +18,8 @@ Este estudo tem como objetivos:
 - Analisar as reações emocionais de Jim em resposta a diferentes situações e personagens ao longo da série.
 - Avaliar a frequência das interações de Jim com outros personagens em momentos específicos, como eventos ou feriados.
 - Investigar a relação entre as interações de Jim e a presença de pegadinhas na série, buscando compreender como esses elementos se entrelaçam em sua dinâmica característica. \**
-
 <br>
+
 ##  3. METODOLOGIA
 
 A metodologia empregada neste estudo envolveu uma abordagem de coleta e análise de dados cuidadosamente planejada. Os dados foram coletados por meio de observação direta dos episódios da série "The Office", com foco nas expressões faciais e nas reações emocionais transpassadas nas icônicas olhadas para a câmera do personagem Jim Halpert, reconhecidas como formas de comunicação não verbal. É importante observar que, devido à natureza dinâmica da série, algumas olhadas para a câmera podem ter passado despercebidas, e portanto, a análise se baseia na média das olhadas identificadas durante a observação direta.
@@ -34,7 +34,5 @@ Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabi
 <br>
 
 ##  4. RESULTADOS 
-
-<br>
 
 ##  5. CONCLUSÃO
