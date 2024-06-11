@@ -28,7 +28,7 @@ A metodologia empregada neste estudo envolveu uma abordagem de coleta e análise
 
 As olhadas icônicas de Jim Halpert para a câmera foram identificadas e classificadas durante a observação direta. Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados.
 
-Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico.
+Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico ou brincadeira por parte de Jim envolvida.
 
 Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados será realizada utilizando Python ou R, ainda a ser decidido, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
 
