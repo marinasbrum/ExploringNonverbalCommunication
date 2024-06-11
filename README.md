@@ -10,7 +10,7 @@ Neste estudo, embarco em uma análise das expressões de Jim Halpert, um dos per
 
 Meu objetivo neste estudo é mergulhar nessas expressões, examinando padrões e tendências em relação aos personagens com os quais Jim interage, as reações emocionais associadas e a frequência dessas interações em momentos específicos da série, como eventos ou feriados. Pretendo, assim, não apenas entender melhor a personalidade de Jim e suas dinâmicas com outros personagens, mas também lançar luz sobre a complexidade da comunicação não verbal em um contexto humorístico.
 
-Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada através das expressões de Jim Halpert, onde gestos sutis e olhares significativos se tornam ingredientes essenciais para o humor e a profundidade emocional de "The Office".
+Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada através das expressões de Jim Halpert, onde gestos sutis e olhares significativos se tornam ingredientes essenciais para o humor e a profundidade emocional de "The Office". <br>
 <br>
 
 ##  2. OBJETIVOS
@@ -19,7 +19,7 @@ Este estudo tem como objetivos:
 - Identificar padrões de comunicação não verbal de Jim Halpert em "The Office", incluindo seus principais interlocutores e contextos associados.
 - Analisar as reações emocionais de Jim em resposta a diferentes situações e personagens ao longo da série.
 - Avaliar a frequência das interações de Jim com outros personagens em momentos específicos, como eventos ou feriados.
-- Investigar a relação entre as interações de Jim e a presença de pegadinhas na série, buscando compreender como esses elementos se entrelaçam em sua dinâmica característica. \**
+- Investigar a relação entre as interações de Jim e a presença de pegadinhas na série, buscando compreender como esses elementos se entrelaçam em sua dinâmica característica. <br>
 <br>
 
 ##  3. METODOLOGIA
@@ -32,10 +32,11 @@ Cada episódio foi meticulosamente assistido, e as informações relevantes fora
 
 Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados será realizada utilizando Python ou R, ainda a ser decidido, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
 
-Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabilidade dos resultados obtidos, proporcionando uma compreensão abrangente das expressões não verbais de Jim Halpert, incluindo suas icônicas olhadas para a câmera, em "The Office". \**
+Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabilidade dos resultados obtidos, proporcionando uma compreensão abrangente das expressões não verbais de Jim Halpert, incluindo suas icônicas olhadas para a câmera, em "The Office". <br>
 <br>
 
 ##  4. RESULTADOS 
 
+<br>
 
 ##  5. CONCLUSÃO
