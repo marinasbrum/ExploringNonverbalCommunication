@@ -1,6 +1,7 @@
 # Explorando a Comunicação Não-verbal: Um Estudo das Expressões de Jim Halpert em "The Office"
 Este estudo investiga os padrões de comunicação não verbal do personagem Jim Halpert em "The Office", examinando vários fatores e tendências que possam contribuir para uma compreensão mais profunda de suas expressões não verbais, notadamente famosas na série. <br>
 <br>
+
 ## 1. INTRODUÇÃO
 Neste estudo, embarco em uma análise das expressões de Jim Halpert, um dos personagens mais emblemáticos da série de comédia "The Office". Ao longo das nove temporadas da série, Jim, interpretado por John Krasinski, tem sido tanto um protagonista cativante quanto uma fonte constante de humor, com suas expressões faciais muitas vezes roubando a cena.
 
@@ -9,8 +10,8 @@ Neste estudo, embarco em uma análise das expressões de Jim Halpert, um dos per
 Meu objetivo neste estudo é mergulhar nessas expressões, examinando padrões e tendências em relação aos personagens com os quais Jim interage, as reações emocionais associadas e a frequência dessas interações em momentos específicos da série, como eventos ou feriados. Pretendo, assim, não apenas entender melhor a personalidade de Jim e suas dinâmicas com outros personagens, mas também lançar luz sobre a complexidade da comunicação não verbal em um contexto humorístico.
 
 Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada através das expressões de Jim Halpert, onde gestos sutis e olhares significativos se tornam ingredientes essenciais para o humor e a profundidade emocional de "The Office".
-
 <br>
+
 ##  2. OBJETIVOS
 Este estudo tem como objetivos:
 - Identificar padrões de comunicação não verbal de Jim Halpert em "The Office", incluindo seus principais interlocutores e contextos associados.
@@ -30,10 +31,10 @@ Cada episódio foi meticulosamente assistido, e as informações relevantes fora
 Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados será realizada utilizando Python ou R, ainda a ser decidido, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
 
 Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabilidade dos resultados obtidos, proporcionando uma compreensão abrangente das expressões não verbais de Jim Halpert, incluindo suas icônicas olhadas para a câmera, em "The Office". \**
-
 <br>
+
 ##  4. RESULTADOS 
 
-
 <br>
+
 ##  5. CONCLUSÃO
