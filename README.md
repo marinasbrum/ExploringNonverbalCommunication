@@ -10,6 +10,8 @@ Neste estudo, embarco em uma análise das expressões de Jim Halpert, um dos per
 
 Meu objetivo neste estudo é mergulhar nessas expressões, examinando padrões e tendências em relação aos personagens com os quais Jim interage, as reações emocionais associadas e a frequência dessas interações em momentos específicos da série, como eventos ou feriados. Pretendo, assim, não apenas entender melhor a personalidade de Jim e suas dinâmicas com outros personagens, mas também lançar luz sobre a complexidade da comunicação não verbal em um contexto humorístico.
 
+É importante destacar que durante a coleta de dados, um critério adotado foi o de não contabilizar as olhadas de Jim Halpert para a câmera que ocorreram em intervalos menores que 15 segundos entre si, desde que transmitissem o mesmo sentimento ou contexto emocional. Esta decisão foi tomada para evitar a duplicação de eventos similares e focar nas olhadas que apresentaram variações significativas ou mudanças perceptíveis na expressão facial de Jim. A análise se concentrou em identificar as olhadas que contribuíram de forma única para a narrativa não verbal do personagem ao longo da série.
+
 Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada através das expressões de Jim Halpert, onde gestos sutis e olhares significativos se tornam ingredientes essenciais para o humor e a profundidade emocional de "The Office". <br>
 <br>
 
