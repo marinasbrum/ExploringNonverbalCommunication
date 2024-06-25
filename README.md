@@ -12,8 +12,6 @@ Meu objetivo neste estudo é mergulhar nessas expressões, examinando padrões e
 
 Inspirada por exemplos de estudos de caso que observei anteriormente durante meu aprofundamento na área, nos quais pessoas uniram seus interesses pessoais à análise de dados, decidi investigar como os dados podem ser utilizados e o que revelarão na análise das expressões de Jim. Este estudo não apenas contribui para uma maior compreensão da série, mas também representa uma oportunidade que criei para explorar minha paixão por dados e integrá-la ao meu apreço pela série, enquanto demonstro minhas habilidades e conhecimentos no projeto.
 
-É importante destacar que durante a coleta de dados, adotei um critério específico: não contabilizar as olhadas de Jim Halpert para a câmera que ocorreram em intervalos menores que 15 segundos entre si, desde que transmitissem o mesmo sentimento ou contexto emocional. Essa abordagem visa evitar a duplicação de eventos similares e focar nas olhadas que apresentaram variações significativas ou mudanças perceptíveis na expressão facial de Jim. A análise se concentrou em identificar as olhadas que contribuíram de forma única para a narrativa não verbal do personagem ao longo da série.
-
 Ao adentrar neste estudo, convido você a se juntar a mim em uma jornada através das expressões de Jim Halpert, onde gestos sutis e olhares significativos se tornam ingredientes essenciais para o humor e a profundidade emocional de "The Office". <br>
 <br>
 
@@ -30,7 +28,9 @@ Este estudo tem como objetivos:
 
 A metodologia empregada neste estudo envolveu uma abordagem de coleta e análise de dados cuidadosamente planejada. Os dados foram coletados por meio de observação direta dos episódios da série "The Office", com foco nas expressões faciais e nas reações emocionais transpassadas nas icônicas olhadas para a câmera do personagem Jim Halpert, reconhecidas como formas de comunicação não verbal. É importante observar que, devido à natureza dinâmica da série, algumas olhadas para a câmera podem ter passado despercebidas, e portanto, a análise se baseia na média das olhadas identificadas durante a observação direta.
 
-As olhadas icônicas de Jim Halpert para a câmera foram identificadas e classificadas durante a observação direta. Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados.
+Destaco que durante a coleta de dados, adotei um critério específico: não contabilizar as olhadas de Jim Halpert para a câmera que ocorreram em intervalos menores que 15 segundos entre si, desde que transmitissem o mesmo sentimento ou contexto emocional. Essa abordagem visa evitar a duplicação de eventos similares e focar nas olhadas que apresentaram variações significativas ou mudanças perceptíveis na expressão facial de Jim. A análise se concentrou em identificar as olhadas que contribuíram de forma única para a narrativa não verbal do personagem ao longo da série. 
+
+As olhadas icônicas de Jim Halpert para a câmera foram identificadas e classificadas durante a observação direta. Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados. É importante observar que, devido à natureza dinâmica da série, algumas olhadas para a câmera podem ter passado despercebidas, e portanto, a análise se baseia na média das olhadas identificadas.
 
 Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico ou brincadeira por parte de Jim envolvida.
 
