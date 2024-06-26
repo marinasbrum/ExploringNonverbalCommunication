@@ -30,9 +30,7 @@ A metodologia empregada neste estudo envolveu uma abordagem de coleta e análise
 
 Destaco também que durante a coleta de dados, adotei um critério específico: não contabilizar as olhadas de Jim Halpert para a câmera que ocorreram em intervalos menores que 15 segundos entre si, desde que transmitissem o mesmo sentimento ou contexto emocional. Essa abordagem visa evitar a duplicação de eventos similares e focar nas olhadas que apresentaram variações significativas ou mudanças perceptíveis na expressão facial de Jim. A análise se concentrou em identificar as olhadas que contribuíram de forma única para a narrativa não verbal do personagem ao longo da série. 
 
-As olhadas de Jim para a câmera foram identificadas e classificadas durante a observação direta. Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados. 
-
-Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico ou brincadeira por parte de Jim envolvida.
+Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados. Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico ou brincadeira por parte de Jim envolvida.
 
 Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados foi realizada utilizando Python, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
 
