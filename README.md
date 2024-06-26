@@ -32,7 +32,7 @@ Destaco também que durante a coleta de dados, adotei um critério específico: 
 
 Para garantir a precisão e consistência dos dados, algumas observações foram validadas por meio de revisão por outras pessoas, assegurando que os sentimentos transmitidos pelas expressões de Jim fossem corretamente interpretados. Cada episódio foi meticulosamente assistido, e as informações relevantes foram catalogadas em um conjunto de colunas que incluíam detalhes como o episódio, temporada, horário, e se houve a presença de algum evento específico ou brincadeira por parte de Jim envolvida.
 
-Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados foi realizada utilizando Python, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
+Posteriormente, os dados coletados foram preparados para análise. Isso envolveu a limpeza e organização dos dados, com exclusão de informações irrelevantes ou inconsistentes. A análise dos dados foi realizada utilizando Python e sua biblioteca Pandas, empregando métodos estatísticos e técnicas de análise de dados adequadas para identificar padrões nas expressões de Jim ao longo da série.
 
 Essa metodologia foi elaborada com o objetivo de garantir a precisão e confiabilidade dos resultados obtidos, proporcionando uma compreensão abrangente das expressões não verbais de Jim Halpert, incluindo suas icônicas olhadas para a câmera, em "The Office". <br>
 <br>
